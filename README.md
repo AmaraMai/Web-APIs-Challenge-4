@@ -12,11 +12,10 @@ This project is being deployed using Github Pages. Please view the links below f
 This project has been deployed to GitHub Pages. 
 
 * [GitHub Repository](https://github.com/AmaraMai/Web-APIs-Challenge-4)
-* [Deployed GitHub](https://amaramai.github.io/Web-APIs-Challenge-4/)
+* [Deployed GitHub](https://amaramai.github.io/Web-APIs-Challenge-4/index.html)
 * [Demo Video](https://drive.google.com/file/d/1olkaooGrgmCmIm6_Vh13qbB0xIIew4SB/view)
 
-
-![Password-Generator Demo](https://user-images.githubusercontent.com/88555003/137429467-37664c82-89da-4b3b-b198-d006a44e30c3.gif)
+![Web-APIs-Challenge-Code-Quiz](https://user-images.githubusercontent.com/88555003/137438874-92165097-0be4-4227-a485-5a901b89a7bb.gif)
 
 
 ### Summary
