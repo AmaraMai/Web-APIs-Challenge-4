@@ -21,6 +21,7 @@ This project has been deployed to GitHub Pages.
 ### Summary
 * For this application, I used HTML and CSS and Javascript to create a quiz with multiple choice questions with Javascript trivia.
 
+![Overview photo of landing page] (assets/images/Web-APIs-Challenge-4.png)
 ## Authors
 
 * **Amara Mai Malekebu** - *Initial work* - [Git Hub Profile](https://github.com/AmaraMai)
