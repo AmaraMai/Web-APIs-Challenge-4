@@ -15,7 +15,9 @@ This project has been deployed to GitHub Pages.
 * [Deployed GitHub](https://amaramai.github.io/Web-APIs-Challenge-4/index.html)
 * [Demo Video](https://drive.google.com/file/d/14a4n37rO-AixNWmk7vFOSb7_CJtlO2kr/view)
 
-![Web-APIs-Challenge-Code-Quiz](https://user-images.githubusercontent.com/88555003/137438874-92165097-0be4-4227-a485-5a901b89a7bb.gif)
+![Web-APIs-Challenge-4](https://user-images.githubusercontent.com/88555003/137514200-14c05829-ed38-458e-9cee-67d35e59e904.gif)
+
+
 
 
 ### Summary
